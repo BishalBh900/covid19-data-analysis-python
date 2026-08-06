@@ -1,8 +1,13 @@
 # 🦠 COVID-19 Data Analysis with Python
 
-A complete Exploratory Data Analysis (EDA) project on the global COVID-19 dataset using **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
+A complete **Exploratory Data Analysis (EDA)** project on the global COVID-19 dataset using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
 
-This project demonstrates the complete data analysis workflow, from data cleaning and preprocessing to visualization and extracting meaningful insights.
+This project demonstrates the complete data analysis workflow, from **data cleaning and preprocessing** to **visualization and extracting meaningful insights**.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-purple)
 
 ---
 
@@ -10,7 +15,7 @@ This project demonstrates the complete data analysis workflow, from data cleanin
 
 The objective of this project is to analyze the global COVID-19 dataset and identify trends, compare countries and WHO regions, and visualize important statistics through professional charts.
 
-The project includes:
+### The project includes:
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -21,18 +26,18 @@ The project includes:
 
 ---
 
-## 🎯 Objectives
+# 🎯 Objectives
 
-- Clean and preprocess COVID-19 data.
-- Analyze confirmed, death, recovered, and active cases.
-- Compare countries with the highest COVID-19 impact.
-- Analyze WHO regions.
-- Understand relationships between numerical variables.
-- Visualize distributions and detect outliers.
+- Clean and preprocess COVID-19 data
+- Analyze confirmed, death, recovered, and active cases
+- Compare countries with the highest COVID-19 impact
+- Analyze WHO regions
+- Understand relationships between numerical variables
+- Visualize distributions and detect outliers
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -43,7 +48,7 @@ The project includes:
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 covid19-analytics/
@@ -73,49 +78,57 @@ covid19-analytics/
 
 ---
 
-## 📷 Sample Visualizations
+# 📷 Sample Visualizations
 
-### Top 10 Confirmed Cases
+## Top 10 Confirmed Cases
 
 ![Top 10 Confirmed Cases](images/top10_confirmed_cases.png)
 
-### Correlation Heatmap
+---
+
+## Correlation Heatmap
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
-### Top 10 Deaths
+---
+
+## Top 10 Deaths
 
 ![Top 10 Deaths](images/top10_deaths.png)
 
-### Top 10 Recovered Cases
+---
+
+## Top 10 Recovered Cases
 
 ![Top 10 Recovered](images/top10_recovered.png)
 
-## 🔍 Key Findings
+---
+
+# 🔍 Key Findings
 
 - The United States recorded the highest number of confirmed cases, deaths, and recoveries.
 - The Americas reported the highest total confirmed COVID-19 cases among WHO regions.
-- Most countries had relatively low confirmed case counts, while only a few countries contributed a large share of global cases.
+- Most countries had relatively low confirmed case counts, while a few countries contributed a large share of global cases.
 - Strong positive correlations exist between confirmed cases, deaths, and recoveries.
-- The distribution of confirmed cases is highly right-skewed with several significant outliers.
+- Confirmed cases distribution is highly right-skewed with several significant outliers.
 
 ---
 
-## 🚀 Installation
+# 🚀 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/covid19-analytics.git
+git clone https://github.com/BishalBh900/covid19-data-analysis-python.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd covid19-analytics
+cd covid19-data-analysis-python
 ```
 
-Install the required libraries:
+Install required libraries:
 
 ```bash
 pip install -r requirements.txt
@@ -123,34 +136,25 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+# ▶️ How to Run
 
-1. Open the project in **VS Code** or **Jupyter Notebook**.
-2. Open the notebooks in the `notebooks/` folder.
-3. Run `01_data_cleaning.ipynb`.
-4. Run `02_exploratory_data_analysis.ipynb`.
+1. Open the project in VS Code or Jupyter Notebook.
+2. Navigate to the `notebooks/` folder.
+3. Run:
 
----
+```
+01_data_cleaning.ipynb
+```
 
-## 📷 Sample Visualizations
+4. Run:
 
-> Add screenshots from the `images/` folder here after uploading them to GitHub.
-
-Example:
-
-```markdown
-### Top 10 Confirmed Cases
-
-![Top 10 Confirmed Cases](images/top10_confirmed_cases.png)
-
-### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
+```
+02_exploratory_data_analysis.ipynb
 ```
 
 ---
 
-## 📈 Skills Demonstrated
+# 📈 Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
@@ -163,7 +167,7 @@ Example:
 
 ---
 
-## 📚 Libraries Used
+# 📚 Libraries Used
 
 - pandas
 - numpy
@@ -172,14 +176,14 @@ Example:
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Bishal Bhandari**
 
-- BSc CSIT Student
-- Python Developer
-- Data Analytics Enthusiast
+- 🎓 BSc CSIT Student
+- 🐍 Python Developer
+- 📊 Data Analytics Enthusiast
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
+⭐ If you found this project useful, consider giving it a star on GitHub!
