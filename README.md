@@ -73,20 +73,23 @@ covid19-analytics/
 
 ---
 
-## 📊 Visualizations
+## 📷 Sample Visualizations
 
-The project includes the following visualizations:
+### Top 10 Confirmed Cases
 
-- Top 10 Countries by Confirmed Cases
-- Top 10 Countries by Deaths
-- Top 10 Countries by Recovered Cases
-- WHO Region Analysis
-- Correlation Heatmap
-- Histogram of Confirmed Cases
-- Box Plot of Confirmed Cases
-- Pairplot of Numerical Variables
+![Top 10 Confirmed Cases](images/top10_confirmed_cases.png)
 
----
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Top 10 Deaths
+
+![Top 10 Deaths](images/top10_deaths.png)
+
+### Top 10 Recovered Cases
+
+![Top 10 Recovered](images/top10_recovered.png)
 
 ## 🔍 Key Findings
 
